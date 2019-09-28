@@ -8,5 +8,9 @@
 
 {% embed url="https://www.jetbrains.com/idea/download/" %}
 
+## C++
+
+{% embed url="https://visualstudio.microsoft.com/downloads/" %}
+
 
 
