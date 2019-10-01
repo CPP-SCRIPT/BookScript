@@ -10,4 +10,5 @@
 ## Tools <a id="ides"></a>
 
 * [IDE's](ides/ides.md)
+* [Link Dump](ides/link-dump.md)
 

@@ -12,5 +12,9 @@
 
 {% embed url="https://visualstudio.microsoft.com/downloads/" %}
 
+## Python
+
+{% embed url="https://www.anaconda.com/distribution/\#download-section" %}
+
 
 
