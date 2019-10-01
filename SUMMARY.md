@@ -17,3 +17,7 @@
 * [Network Tools](ides/network-tools.md)
 * [Reverse Engineering Tools](ides/reverse-engineering-tools.md)
 
+## Misc
+
+* [Linux Commands Guide](misc/linux-commands-guide.md)
+
