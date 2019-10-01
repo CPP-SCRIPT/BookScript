@@ -4,7 +4,9 @@
 
 ## Cybersecurity
 
-* [Cryptography](cybersecurity/cryptography.md)
+* [Cryptography](cybersecurity/cryptography/README.md)
+  * [Intro](cybersecurity/cryptography/intro/README.md)
+    * [Modulus](cybersecurity/cryptography/intro/modulus.md)
 * [Network](cybersecurity/network.md)
 
 ## Tools <a id="ides"></a>
