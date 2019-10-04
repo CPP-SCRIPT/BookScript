@@ -16,9 +16,19 @@ cd /
 
 **clear :: clear screen**
 
-**cat :: prints** 
+**cat :: prints what the file is**
 
-**echo :: prints to screen**
+```text
+cat hello.c
+hello text
+```
+
+**echo :: prints next text to screen**
+
+```text
+echo hello.c
+hello.c
+```
 
 **mv :: move** 
 
