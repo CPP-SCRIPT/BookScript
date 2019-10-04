@@ -22,6 +22,12 @@
 
 
 
+## Learning 
+
+{% embed url="http://www.cis.syr.edu/~wedu/seed/labs12\_04.html" %}
+
+{% embed url="https://github.com/CyberMonitor/APT\_CyberCriminal\_Campagin\_Collections" %}
+
 
 
 
