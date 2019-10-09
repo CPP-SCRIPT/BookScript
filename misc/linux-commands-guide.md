@@ -38,5 +38,7 @@ hello.c
 
 **gcc :: c compiler**
 
+**python3:: opens python** 
+
 \*\*\*\*
 
