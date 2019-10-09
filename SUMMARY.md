@@ -9,6 +9,7 @@
     * [Modulus](cybersecurity/cryptography/intro/modulus.md)
   * [Common Ciphers](cybersecurity/cryptography/common-ciphers.md)
 * [Network](cybersecurity/network.md)
+* [Pen Testing](cybersecurity/pen-testing.md)
 
 ## Tools <a id="ides"></a>
 
