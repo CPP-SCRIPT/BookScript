@@ -12,6 +12,14 @@
 
 [Intro to Python](https://www.cse.unsw.edu.au/~en1811/python-docs/python-3.6.4-docs-pdf/tutorial.pdf)
 
+## Cryptography
+
+[Cryptographic Math Principles](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)
+
+[Cryptographic Modern Principles](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_2.pdf)
+
+
+
 ## InfoSec/CTF Challenges
 
 {% embed url="http://overthewire.org/wargames/" %}
