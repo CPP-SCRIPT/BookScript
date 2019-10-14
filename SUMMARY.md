@@ -7,6 +7,8 @@
 * [Cryptography](cybersecurity/cryptography/README.md)
   * [Intro](cybersecurity/cryptography/intro/README.md)
     * [Modulus](cybersecurity/cryptography/intro/modulus.md)
+  * [Encryption](cybersecurity/cryptography/encryption/README.md)
+    * [Shannon Cipher](cybersecurity/cryptography/encryption/shannon-cipher.md)
   * [Common Ciphers](cybersecurity/cryptography/common-ciphers.md)
 * [Network](cybersecurity/network.md)
 * [Pen Testing](cybersecurity/pen-testing.md)
