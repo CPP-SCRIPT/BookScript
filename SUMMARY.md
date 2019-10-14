@@ -17,6 +17,7 @@
 * [Link Dump](ides/link-dump.md)
 * [Network Tools](ides/network-tools.md)
 * [Reverse Engineering Tools](ides/reverse-engineering-tools.md)
+* [VirtualBox and WSL setup](ides/virtualbox-and-wsl-setup.md)
 
 ## Misc
 
