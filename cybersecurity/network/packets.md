@@ -6,5 +6,7 @@ Packets are segments of data passed through networks :
 
 64 KBs in IP Packets
 
-![](../../.gitbook/assets/packet-structure.png)
+![Structure of a Packet](../../.gitbook/assets/packet-structure.png)
+
+
 
