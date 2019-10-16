@@ -1,4 +1,4 @@
-# Vocab
+# Cryptography Jargon
 
 **Plaintext :: text to be encrypted**
 

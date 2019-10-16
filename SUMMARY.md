@@ -6,7 +6,6 @@
 
 * [Cryptography](cybersecurity/cryptography/README.md)
   * [Intro](cybersecurity/cryptography/intro/README.md)
-    * [Vocab](cybersecurity/cryptography/intro/vocab.md)
     * [Modulus](cybersecurity/cryptography/intro/modulus.md)
   * [Encryption](cybersecurity/cryptography/encryption/README.md)
     * [Shannon Cipher](cybersecurity/cryptography/encryption/shannon-cipher.md)
@@ -25,4 +24,7 @@
 ## Misc
 
 * [Linux Commands Guide](misc/linux-commands-guide.md)
+* [Jargon](misc/jargon/README.md)
+  * [Networks Jargon](misc/jargon/networks-jargon.md)
+  * [Cryptography Jargon](misc/jargon/vocab.md)
 
