@@ -8,5 +8,11 @@
 
 **Packets :: segments of data**
 
+**Routers and Switches :: Ways that packets communicate with each other**
+
+**Internet Service Provider :: ISP**
+
+\*\*\*\*
+
 \*\*\*\*
 

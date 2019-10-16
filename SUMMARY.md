@@ -11,6 +11,7 @@
     * [Shannon Cipher](cybersecurity/cryptography/encryption/shannon-cipher.md)
   * [Common Ciphers](cybersecurity/cryptography/common-ciphers.md)
 * [Network](cybersecurity/network/README.md)
+  * [Protocols](cybersecurity/network/protocols.md)
   * [Packets](cybersecurity/network/packets.md)
 * [Pen Testing](cybersecurity/pen-testing.md)
 
