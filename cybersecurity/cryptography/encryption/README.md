@@ -33,6 +33,14 @@ Then Alice **Encrypts** her message with the **Key.**
 
 Then she sends her message to Bob. Assuming that the message was the same message that Alice sent and it was not tampered in transit then Bob can use the shared **Key** and **Decrypt** the message.
 
+
+
+### One-Time Pad
+
+A **one-time pad** is a Shannon cipher E = \(E,D\), where the **Keys, Messages**, **and Ciphertext** are bit strings of the **Same Length.**
+
+\*\*\*\*
+
 \*\*\*\*
 
 
