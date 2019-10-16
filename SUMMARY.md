@@ -10,7 +10,8 @@
   * [Encryption](cybersecurity/cryptography/encryption/README.md)
     * [Shannon Cipher](cybersecurity/cryptography/encryption/shannon-cipher.md)
   * [Common Ciphers](cybersecurity/cryptography/common-ciphers.md)
-* [Network](cybersecurity/network.md)
+* [Network](cybersecurity/network/README.md)
+  * [Packets](cybersecurity/network/packets.md)
 * [Pen Testing](cybersecurity/pen-testing.md)
 
 ## Tools <a id="ides"></a>
