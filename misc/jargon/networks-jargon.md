@@ -16,6 +16,8 @@
 
 **UnGuided Media :: Wireless, Bluetooth, LTE, etc**
 
+**Store-and-forward transmission ::**  the packet switch must receive the entire packet before it can begin to transmit the first bit of the packet onto the outbound link.
+
 \*\*\*\*
 
 \*\*\*\*
