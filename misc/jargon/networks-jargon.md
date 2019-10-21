@@ -12,6 +12,10 @@
 
 **Internet Service Provider :: ISP**
 
+**Guided Media :: Ethernet, Wires, etc**
+
+**UnGuided Media :: Wireless, Bluetooth, LTE, etc**
+
 \*\*\*\*
 
 \*\*\*\*
