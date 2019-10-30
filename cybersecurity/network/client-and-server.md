@@ -6,5 +6,9 @@ A **Client**  is an endpoint and usually asks information to be received from a 
 
 A **Server** is a system in which it can reply to a client's requests via code or response.
 
+**Client Code example is listed** [**here**](https://github.com/CPP-SCRIPT/Examples/blob/master/Networks/WINclient.cpp)\*\*\*\*
 
+**Server Code example is listed** [**here**](https://github.com/CPP-SCRIPT/Examples/blob/master/Networks/WinServer.cpp)\*\*\*\*
+
+\*\*\*\*
 
