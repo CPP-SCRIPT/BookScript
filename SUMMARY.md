@@ -12,6 +12,7 @@
     * [Shannon Cipher](cybersecurity/cryptography/encryption/shannon-cipher.md)
   * [Common Ciphers](cybersecurity/cryptography/common-ciphers.md)
 * [Network](cybersecurity/network/README.md)
+  * [Networks Mathematics](cybersecurity/network/networks-mathematics.md)
   * [Client and Server](cybersecurity/network/client-and-server.md)
   * [Protocols](cybersecurity/network/protocols.md)
   * [Packets](cybersecurity/network/packets.md)
