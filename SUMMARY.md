@@ -13,10 +13,13 @@
   * [Common Ciphers](cybersecurity/cryptography/common-ciphers.md)
 * [Network](cybersecurity/network/README.md)
   * [Networks Mathematics](cybersecurity/network/networks-mathematics.md)
-  * [Client and Server](cybersecurity/network/client-and-server.md)
+  * [Socket Programming](cybersecurity/network/client-and-server.md)
   * [Protocols](cybersecurity/network/protocols.md)
   * [Packets](cybersecurity/network/packets.md)
-* [Pen Testing](cybersecurity/pen-testing.md)
+* [Pen Testing](cybersecurity/pen-testing/README.md)
+  * [Network Attacks](cybersecurity/pen-testing/network-attacks/README.md)
+    * [Bandwidth Flooding](cybersecurity/pen-testing/network-attacks/bandwidth-flooding.md)
+* [Untitled](cybersecurity/untitled.md)
 
 ## Tools <a id="ides"></a>
 
@@ -30,6 +33,7 @@
 
 * [Linux Commands Guide](misc/linux-commands-guide.md)
 * [Jargon](misc/jargon/README.md)
+  * [General Cybersecurity Jargon](misc/jargon/general-cybersecurity-jargon.md)
   * [Networks Jargon](misc/jargon/networks-jargon.md)
   * [Cryptography Jargon](misc/jargon/vocab.md)
 

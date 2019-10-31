@@ -45,5 +45,19 @@ _**Processing Delay :**_
 
   _****_Delay to process the packets that are given. Usually given in most problems
 
+ _**End to End delay:**_ 
+
+     Add every delay
+
+## Throughput
+
+Assume you have a File and it contains _**F Bits.**_
+
+Assume it takes _**T Time**_ to transfer all of the files.
+
+```text
+Average Throughtput = F/T
+```
+
 
 

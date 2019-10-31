@@ -1,4 +1,6 @@
-# Client and Server
+# Socket Programming
+
+## Client and Server
 
 The way that we mostly interact on the internet is through the client server model
 
