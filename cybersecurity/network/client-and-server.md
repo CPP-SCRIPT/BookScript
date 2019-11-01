@@ -12,5 +12,9 @@ A **Server** is a system in which it can reply to a client's requests via code o
 
 **Server Code example is listed** [**here**](https://github.com/CPP-SCRIPT/Examples/blob/master/Networks/WinServer.cpp)\*\*\*\*
 
+For handling big data companies might employ the use of Data Centers or Server Farms to handle all of the Client Request.
+
+
+
 \*\*\*\*
 

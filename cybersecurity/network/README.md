@@ -50,9 +50,18 @@ Networks is an important part of cyber security. It is the way that communicatio
 
      ex. wires, wireless, fiber, coax, bluetooth
 
-\*\*\*\*
+## Network Architectures
 
-    
+There are multiple ways of sharing information and sending the different information in the spaces
+
+One way is _**Client-Server Architecture:**_  
+For more info on [Client, Servers, and Socket Programming](client-and-server.md) 
+
+Another way is _**P2P Architecture:**_ This architecture is the backbone for torrenting, and also the onion network. Also website telecommunication fall under this as well such as Skype, Facebook Messenger, FaceTime. Both end users help each other out in compiling and runtime.
+
+One feature 
+
+
 
 
 

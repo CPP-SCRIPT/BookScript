@@ -34,6 +34,14 @@ For some Packet Sniffing Tools go [here](../../../ides/network-tools.md).
 
 Packet sniffers are a passive tool so they are not able to send bad packets in a network. 
 
+## IP Spoofing 
+
+Sending packets with a different IP Address mimicking another person.
+
+This is an easy fix you just have to have end-point verification
+
+
+
 
 
 
