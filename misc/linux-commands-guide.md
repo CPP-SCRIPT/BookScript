@@ -42,5 +42,7 @@ hello.c
 
 **Traceroute :: Networking tool**
 
+**ifconfig :: opens and shows IP addresses, and subnet masks**
+
 \*\*\*\*
 

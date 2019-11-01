@@ -18,6 +18,22 @@
 
 **Store-and-forward transmission ::**  the packet switch must receive the entire packet before it can begin to transmit the first bit of the packet onto the outbound link.
 
+**Process :: A program running within an end system**
+
+**Message :: a string**
+
+**Socket :: Where messages and processes are sent and received through in network programming**
+
+**Reliable data transfer :: Guarantees data delivery**
+
+**loss-tolerant applications :: Applications in which some data is loss ex. Multimedia applications, vimeo, Youtube**
+
+**Bandwidth-sensitive applications :: Applications that have throughput requirements**
+
+\*\*\*\*
+
+\*\*\*\*
+
 \*\*\*\*
 
 \*\*\*\*

@@ -59,7 +59,9 @@ For more info on [Client, Servers, and Socket Programming](client-and-server.md)
 
 Another way is _**P2P Architecture:**_ This architecture is the backbone for torrenting, and also the onion network. Also website telecommunication fall under this as well such as Skype, Facebook Messenger, FaceTime. Both end users help each other out in compiling and runtime.
 
-One feature 
+One feature of the _**P2P Architecture**_  is that it is self-scalable. If you want to add more efficiency you add more nodes. 
+
+
 
 
 
