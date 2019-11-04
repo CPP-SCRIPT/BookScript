@@ -12,3 +12,7 @@ If you have ever played the game "hangman", you instinctively choose letters tha
 
 ![English Letter Distribution](../../../.gitbook/assets/frequencies.png)
 
+Using the above graph if you find out what letters appear in the **plaintext** most often chances are they correlate to the above graph. You can then apply the same method to **Bigrams** and **Trigrams**
+
+![Bigram Frequency](../../../.gitbook/assets/bf.png)
+
