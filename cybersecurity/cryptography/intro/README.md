@@ -8,7 +8,7 @@ Cryptography as a whole involves in a lot of math. Most of the information inclu
 
 For most of the time in this book we will be using the English Language. If you are from another country or English is not your main language I apologize. 
 
-If you have ever played the game "hangman", you instinctively choose letters that the most frequency in the English language. An early way of Cryptography was using _**Substitution Cryptography.**_ Where the 
+If you have ever played the game "hangman", you instinctively choose letters that the most frequency in the English language. An early way of Cryptography was using _**Substitution Cryptography.**_ This is a cryptographic method in which each letter is substituted for another letter. Examples of this are the [Caesar Cipher](../common-ciphers.md#caesar-cipher) or the [Vigenère Cipher](../common-ciphers.md#vigenere-cipher)
 
 ![](../../../.gitbook/assets/frequencies.png)
 

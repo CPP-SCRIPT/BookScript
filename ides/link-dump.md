@@ -20,6 +20,8 @@
 
 [Shorthand Cryptography](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.220.167&rep=rep1&type=pdf)
 
+[Identifying unknown ciphers](http://practicalcryptography.com/cryptanalysis/text-characterisation/identifying-unknown-ciphers/)
+
 ## Networks
 
 [Networks](http://ce.sharif.edu/courses/94-95/2/ce443-3/resources/root/Book/fqo47.Computer.Networking.A.TopDown.Approach.6th.Edition.pdf) :: Sharif university of Tech
