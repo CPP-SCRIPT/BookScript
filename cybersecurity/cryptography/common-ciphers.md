@@ -1,3 +1,7 @@
+---
+description: Ciphers in which each letter is replaced with another letter.
+---
+
 # Substitution Ciphers
 
 ## Caesar Cipher

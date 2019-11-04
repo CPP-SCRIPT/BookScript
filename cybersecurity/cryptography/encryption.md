@@ -39,6 +39,12 @@ Then she sends her message to Bob. Assuming that the message was the same messag
 
 A **one-time pad** is a Shannon cipher E = \(E,D\), where the **Keys, Messages**, **and Ciphertext** are bit strings of the **Same Length.**
 
+## Types of Ciphers
+
+### Substitution Cipher
+
+
+
 \*\*\*\*
 
 \*\*\*\*
