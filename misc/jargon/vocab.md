@@ -8,6 +8,12 @@
 
 **Alphabet :: usually the English alphabet ex. ABCD**
 
+**Brute Force Attack :: Go through every option until answer is solved**
+
+**Dictionary Attack :: Using a dictionary to limit the amount of variance**
+
+\*\*\*\*
+
 \*\*\*\*
 
 \*\*\*\*

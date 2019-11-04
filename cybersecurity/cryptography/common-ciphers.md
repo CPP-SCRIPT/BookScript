@@ -1,6 +1,6 @@
-# Common Ciphers
+# Substitution Ciphers
 
-### Caesar Cipher
+## Caesar Cipher
 
 Given Message
 
@@ -21,7 +21,7 @@ Hello world :: Plaintext
 Khoor zruog :: Cipher Text
 ```
 
-### Vigenère Cipher
+## Vigenère Cipher
 
 Given the same text
 
@@ -46,4 +46,12 @@ HelloWorld :: Plaintext
 ScriptScri :: Key
 zgctdpgtcl :: Ciphertext
 ```
+
+### Kasiski Test
+
+If you were given a cipher text 
+
+
+
+
 

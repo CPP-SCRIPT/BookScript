@@ -8,9 +8,8 @@
 * [Cryptography](cybersecurity/cryptography/README.md)
   * [Intro](cybersecurity/cryptography/intro/README.md)
     * [Modulus](cybersecurity/cryptography/intro/modulus.md)
-  * [Encryption](cybersecurity/cryptography/encryption/README.md)
-    * [Shannon Cipher](cybersecurity/cryptography/encryption/shannon-cipher.md)
-  * [Common Ciphers](cybersecurity/cryptography/common-ciphers.md)
+  * [Encryption](cybersecurity/cryptography/encryption.md)
+  * [Substitution Ciphers](cybersecurity/cryptography/common-ciphers.md)
 * [Network](cybersecurity/network/README.md)
   * [Networks Mathematics](cybersecurity/network/networks-mathematics.md)
   * [Socket Programming](cybersecurity/network/client-and-server.md)
@@ -36,5 +35,5 @@
   * [General Cybersecurity Jargon](misc/jargon/general-cybersecurity-jargon.md)
   * [Networks Jargon](misc/jargon/networks-jargon.md)
   * [Cryptography Jargon](misc/jargon/vocab.md)
-* [Untitled](misc/untitled.md)
+* [./SCRIPT E-Board](misc/untitled.md)
 
