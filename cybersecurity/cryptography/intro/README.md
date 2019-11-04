@@ -16,3 +16,5 @@ Using the above graph if you find out what letters appear in the **plaintext** m
 
 ![Bigram Frequency](../../../.gitbook/assets/bf.png)
 
+Another characteristic of English is the **Index of Coincidence.** It essentially is the probability in a given text, if all of the letters were put in a hat how likely is it that the letters are both the same and in the English Language is is about .06. So if you use the **Index of Coincidence** on a cipher text and it gives .06. It is most likely a substitution cipher. 
+
