@@ -6,14 +6,14 @@ Modulus in a fundamental in modern cryptography and the public key cryptosystem.
 
 For Example 
 
-```text
+```
 12/6 = 2; remainder 0
 12/5 = 2; remainder 2
 ```
 
 To find the remainder you use the modulus function
 
-```text
+```
 12 (mod 5) = 2
 12 % 5 = 2
 ```
@@ -22,7 +22,7 @@ To find the remainder you use the modulus function
 
 Given problem
 
-```text
+```
 ax = b (mod N) :: where a, b and N are given; solve for x
 ex. 7x = 5 (mod 143)
 ```
@@ -37,7 +37,7 @@ If the gcd \(a, N\) =1, then a and N are relatively **prime** or **coprime.**
 
 Also if the gcd\(a, N\)= 1, then you can make 
 
-```text
+```
 a * c = 1 (mod N)
 x = b * c (mod N)
 ```
@@ -46,7 +46,7 @@ This is the basis for **Public Key** and **Private Key Generation**
 
 Steps:
 
-```text
+```
  Pick A and B:: where A and B are prime and A != B
  C = A*B
  ϕC =(A-1)(B-1)

@@ -18,7 +18,7 @@ and E is the encryption function of k and m
 
 and D is the decryption function of k and c
 
-```text
+```
 c = E(k,m)
 m = D(k,c)
 ```
@@ -42,6 +42,12 @@ A **one-time pad** is a Shannon cipher E = \(E,D\), where the **Keys, Messages**
 ## Types of Ciphers
 
 ### Substitution Cipher
+
+A substitution cipher in most cases exchange one character in the language that you are portraying into another language. 
+
+For detailed examples of these click [here](common-ciphers.md).
+
+
 
 
 

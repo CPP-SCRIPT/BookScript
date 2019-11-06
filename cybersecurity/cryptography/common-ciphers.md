@@ -8,7 +8,7 @@ description: Ciphers in which each letter is replaced with another letter.
 
 Given Message
 
-```text
+```
 Hello World
 ```
 
@@ -20,7 +20,7 @@ Now you have a table , according to the table above A = D, D = G, and so forth.
 
 So now:
 
-```text
+```
 Hello world :: Plaintext
 Khoor zruog :: Cipher Text
 ```
@@ -29,7 +29,7 @@ Khoor zruog :: Cipher Text
 
 Given the same text
 
-```text
+```
 Hello World
 ```
 
@@ -39,13 +39,13 @@ So now we have this Vigenère Square
 
 With this now we make up a key
 
-```text
+```
 key = script
 ```
 
 Now we make the key the same number of letters as the plaintext and then following the square find the letters matching for example "F" and "G" would turn into "L"
 
-```text
+```
 HelloWorld :: Plaintext
 ScriptScri :: Key
 zgctdpgtcl :: Ciphertext
@@ -64,6 +64,15 @@ You can input the text [here](http://practicalcryptography.com/cryptanalysis/tex
 In this specific case the bigram with the most frequency is **uw**.
 
 Next you find the distances between each instance of **uw.** Then after that find the gcd of the distances and that will give you the possible key sizes and in this case it is 6.
+
+## Baconian Cipher
+
+This one is a fun cipher in which everything in it is just A's and B's. You can treat it a bit like binary
+
+```text
+Script :: Plaintext
+BAABAAAABABAAABABAAAABBBBBAABB :: Ciphertext
+```
 
 
 

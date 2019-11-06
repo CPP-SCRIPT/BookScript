@@ -13,5 +13,7 @@ description: >-
 
 Protocols happen the way that we communicate to each other. Much like the diagram below, the computer communicates the same way that we do just in a more literal sense. 
 
-![](../../.gitbook/assets/image.png)
+![](../../../.gitbook/assets/image.png)
+
+![](../../../.gitbook/assets/protocols.PNG)
 

@@ -4,6 +4,7 @@
 
 ## Cybersecurity
 
+* [Security](cybersecurity/security.md)
 * [Reverse Engineering](cybersecurity/reverse-engineering.md)
 * [Cryptography](cybersecurity/cryptography/README.md)
   * [Intro](cybersecurity/cryptography/intro/README.md)
@@ -13,7 +14,8 @@
 * [Network](cybersecurity/network/README.md)
   * [Networks Mathematics](cybersecurity/network/networks-mathematics.md)
   * [Socket Programming](cybersecurity/network/client-and-server.md)
-  * [Protocols](cybersecurity/network/protocols.md)
+  * [Protocols](cybersecurity/network/protocols/README.md)
+    * [HTTP](cybersecurity/network/protocols/http.md)
   * [Packets](cybersecurity/network/packets.md)
 * [Pen Testing](cybersecurity/pen-testing/README.md)
   * [Network Attacks](cybersecurity/pen-testing/network-attacks/README.md)
