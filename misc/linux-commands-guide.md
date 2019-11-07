@@ -2,7 +2,7 @@
 
 #### cd :: Change Directory
 
-```
+```text
 cd . :: Move to next directory
 cd .. :: Move to previous directory
 cd ~
@@ -18,14 +18,14 @@ cd /
 
 **cat :: prints what the file is**
 
-```
+```text
 cat hello.c
 hello text
 ```
 
 **echo :: prints next text to screen**
 
-```
+```text
 echo hello.c
 hello.c
 ```
