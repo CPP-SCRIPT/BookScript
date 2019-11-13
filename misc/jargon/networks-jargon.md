@@ -30,6 +30,12 @@
 
 **Bandwidth-sensitive applications :: Applications that have throughput requirements**
 
+**Non-persistent connections :: each request and response is using a different TCP connection**
+
+**Persistent connections :: each request and response is using the same TCP connection**
+
+\*\*\*\*
+
 \*\*\*\*
 
 \*\*\*\*
