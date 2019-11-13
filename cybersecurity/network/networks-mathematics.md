@@ -59,5 +59,21 @@ Assume it takes _**T Time**_ to transfer all of the files.
 Average Throughtput = F/T
 ```
 
+## Round Trip Time
 
+The time it takes to have a packet send from client to server and back to client. 
+
+### Three- Way Handshake
+
+Involved in this is a **three-way handshake.**
+
+```text
+The client sends a small packet to the server
+The server then sends a small packet to the client
+The client then sends a small packet to the server saying that it got it
+```
+
+     ****After the **three-way handshake** is established then the object is sent to the server to be sent 
+
+This then takes 2 **RTT**
 

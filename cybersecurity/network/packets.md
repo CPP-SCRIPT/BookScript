@@ -34,3 +34,15 @@ where **N** is the amount of links.
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
+## HTTP Request Message
+
+ex: 
+
+```text
+GET /script/index.html HTTP/1.1
+Host: www.cpp.edu
+connection: close
+user-agent: Google Chrome
+Accept-language: en
+```
+
