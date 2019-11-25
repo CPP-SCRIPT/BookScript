@@ -24,7 +24,9 @@
 
 [Networks](http://ce.sharif.edu/courses/94-95/2/ce443-3/resources/root/Book/fqo47.Computer.Networking.A.TopDown.Approach.6th.Edition.pdf) :: Sharif university of Tech
 
+## Reverse Engineering
 
+[Practical Reverse Engineering](https://repo.zenk-security.com/Reversing%20.%20cracking/Practical%20Reverse%20Engineering.pdf)
 
 ## InfoSec/CTF Challenges
 
