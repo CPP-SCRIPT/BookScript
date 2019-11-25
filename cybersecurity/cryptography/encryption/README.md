@@ -45,11 +45,29 @@ A **one-time pad** is a Shannon cipher E = \(E,D\), where the **Keys, Messages**
 
 A substitution cipher in most cases exchange one character in the language that you are portraying into another language. 
 
-For detailed examples of these click [here](common-ciphers.md).
+For detailed examples of these click [here](../common-ciphers.md).
 
+### Permutation Cipher 
 
+A permutation cipher is essentially scrambling the basic structure not replacing anything but confusing.
 
+Example:
 
+```text
+Plaintext:
+
+Script is the best club on campus
+
+Cipher text:
+
+Pircst si eht sebt ulcb no mucpas
+
+Cipher text no spaces:
+
+Pircstsiehtsebtulcbnomucpas
+```
+
+This method will still have the same English letter frequencies however it eliminates the bigram and trigram frequencies. 
 
 \*\*\*\*
 
