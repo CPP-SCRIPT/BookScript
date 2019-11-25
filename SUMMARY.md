@@ -5,7 +5,8 @@
 ## Cybersecurity
 
 * [Security](cybersecurity/security.md)
-* [Reverse Engineering](cybersecurity/reverse-engineering.md)
+* [Reverse Engineering](cybersecurity/reverse-engineering/README.md)
+  * [x86 x64](cybersecurity/reverse-engineering/x86-x64.md)
 * [Cryptography](cybersecurity/cryptography/README.md)
   * [Intro](cybersecurity/cryptography/intro/README.md)
     * [Modulus](cybersecurity/cryptography/intro/modulus.md)
