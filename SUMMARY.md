@@ -22,7 +22,6 @@
 * [Pen Testing](cybersecurity/pen-testing/README.md)
   * [Network Attacks](cybersecurity/pen-testing/network-attacks/README.md)
     * [Bandwidth Flooding](cybersecurity/pen-testing/network-attacks/bandwidth-flooding.md)
-* [Untitled](cybersecurity/untitled.md)
 
 ## Tools <a id="ides"></a>
 
