@@ -46,3 +46,41 @@ user-agent: Google Chrome
 Accept-language: en
 ```
 
+The first line is called the **Request line,**  all other lines are called **Header lines.**
+
+### Request Lines
+
+```text
+ Method Field
+ URL Field
+ HTTP Field
+```
+
+The **Method Field** is the field that can take in the methods such as GET, POST, HEAD, etc.
+
+The **URL Field** is the field that asks the host what it wants
+
+The **HTTP Field** is the field of the version of HTTP
+
+### Header Lines
+
+The **Host** line is self explanatory, it is the host
+
+The **Connection: close** line states that it doesn't want a persistent connection
+
+The **User-agent** is the browser one uses such as Google Chrome, Mozilla Firefox, Safari, etc.
+
+The **Accept-language** is the language of the packet.
+
+## HTTP Response Message
+
+ex:
+
+```text
+
+```
+
+
+
+
+
