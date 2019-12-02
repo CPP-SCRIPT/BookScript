@@ -4,9 +4,9 @@ First of all if you are reading this and are applying for a government job. Stop
 
 Three pillars of Cybersecurity:
 
-Confidentiality
+**Confidentiality**
 
-Integrity
+**Integrity**
 
-Availability
+**Availability**
 
