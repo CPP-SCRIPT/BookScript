@@ -4,10 +4,6 @@
 
 [Intro to Java :: David J. Eck :: Hobart and William Smith Colleges](http://math.hws.edu/eck/cs124/downloads/javanotes6-linked.pdf)
 
-## C++
-
-[Intro to C++ :: Richard L. Halterman :: Southern Adventist University](https://python.cs.southern.edu/cppbook/progcpp.pdf)
-
 ## Python
 
 [Intro to Python](https://www.cse.unsw.edu.au/~en1811/python-docs/python-3.6.4-docs-pdf/tutorial.pdf)
